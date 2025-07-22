@@ -1,8 +1,6 @@
 # Code Review AI Bot
 
-This tool uses OpenAI's GPT model to review code and suggest improvements.
+# 🤖 Code Review AI
 
-## Setup
-
-1. Create a `.env` file with your OpenAI API key:
+A minimal AI-powered tool to review your code using local LLM (LM Studio) or HuggingFace models. Built with Streamlit for quick testing and feedback.
 
